@@ -1,5 +1,6 @@
 # FishingBot_GTARP
 
+
 ➤ Сведенья:
 
 • Бот работает только для мониторов с разрешением 1920 х 1080
@@ -15,7 +16,10 @@
 • Бот не решает ккапчу!
 
 
+
 =================
+
+
 
 ➤ [Удочка должна лежать в ячейке, как на фото](https://user-images.githubusercontent.com/64327274/116778441-922bad00-aa7a-11eb-8100-3cb85bd4ac48.jpg)
 
@@ -25,11 +29,17 @@ pip install PyAutoGUI
 
 pip install keyboard
 
+
+
 =================
+
+
 
 01.05.2021 by Mihas Games
 
+
 Другие проекты: 
+
 
 https://mihas-games.itch.io/
 
