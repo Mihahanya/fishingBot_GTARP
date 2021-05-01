@@ -30,5 +30,7 @@ pip install keyboard
 01.05.2021 by Mihas Games
 
 Другие проекты: 
+
 https://mihas-games.itch.io/
+
 https://vk.com/mihasgames
